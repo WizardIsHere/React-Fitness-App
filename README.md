@@ -7,4 +7,4 @@ Similar exercises videos from youtube.
 <a href="#"><img src="src/assets/images/rf1.png" width=1390px ></a>
 <a href="#"><img src="src/assets/images/rf2.png" width=1390px ></a>
 <a href="#"><img src="src/assets/images/rf3.png" width=1390px ></a>
-<a href="#"><img src="src/assets/images/rf4.png" width=1390px ></a>he fuctionality to selsct 
+<a href="#"><img src="src/assets/images/rf4.png" width=1390px ></a>
