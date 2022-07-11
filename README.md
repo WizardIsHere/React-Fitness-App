@@ -1,2 +1,2 @@
 
-<a href="#"><img src="assets/images/rf1.png" width=1790px ></a>
+<a href="#"><img src="src/assets/images/rf1.png" width=1390px ></a>
